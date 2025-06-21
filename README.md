@@ -58,3 +58,24 @@ Build `langgraph-chatbot` from the source and install dependencies:
 
    ```bash
    git clone https://github.com/quikcss/langgraph-chatbot
+
+2. **Navigate to the project directory**:
+
+   ```bash
+   cd langgraph-chatbot
+
+3. **Install the dependencies**:
+
+   ```bash
+   uv sync --all-extras --dev
+
+**Usage**:
+
+  ```bash
+  uv run python main.py
+
+### License
+
+This project is licensed under the MIT License.
+
+Feel free to use, modify, and distribute it as per the license terms.
