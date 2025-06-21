@@ -69,13 +69,6 @@ Build `langgraph-chatbot` from the source and install dependencies:
    ```bash
    uv sync --all-extras --dev
 
-**Usage**:
-
-  ```bash
-  uv run python main.py
-
 ### License
-
 This project is licensed under the MIT License.
-
-Feel free to use, modify, and distribute it as per the license terms.
+Feel free to use, modify, and distribute it under the terms of the license.
